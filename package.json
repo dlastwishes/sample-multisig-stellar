@@ -1,0 +1,25 @@
+{
+  "name": "multisig-stellar",
+  "version": "1.0.0",
+  "description": "project for test multi-signature contract",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dlastwishes/sample-multisig-stellar.git"
+  },
+  "keywords": [
+    "stellar"
+  ],
+  "author": "dlast",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dlastwishes/sample-multisig-stellar/issues"
+  },
+  "homepage": "https://github.com/dlastwishes/sample-multisig-stellar#readme",
+  "dependencies": {
+    "stellar-sdk": "^0.9.1"
+  }
+}
