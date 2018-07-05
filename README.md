@@ -3,4 +3,5 @@
 
 ## สิ่งที่จำเป็นสำหรับ Project นี้
 #### 1.Javacript-stellar-sdk
-#### 2. Javascript Skills
+#### 2. request module in npm node.js 
+#### 3. Javascript Skills

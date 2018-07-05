@@ -20,6 +20,7 @@
   },
   "homepage": "https://github.com/dlastwishes/sample-multisig-stellar#readme",
   "dependencies": {
+    "request": "^2.87.0",
     "stellar-sdk": "^0.9.1"
   }
 }
