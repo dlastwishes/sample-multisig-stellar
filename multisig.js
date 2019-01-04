@@ -26,7 +26,3 @@ var transaction = new StellarSdk.TransactionBuilder(account)
 transaction.sign(rootKeypair); // only need to sign with the root signer as the 2nd signer won't be added to the account till after this transaction completes
 
 return server.submitTransaction(transaction);
-
-
-
-console.log("multisig success");
